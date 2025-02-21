@@ -46,7 +46,7 @@
         <em>A complete shopping ecosystem—cart, wishlist, auth, profile, orders</em><br/>
         <img src="https://via.placeholder.com/250?text=Ecommerce+Preview" alt="Ecommerce Preview" style="border-radius:10px;border:2px solid #FF5733;" /><br/>
         <img src="https://img.shields.io/badge/HTML%20|%20CSS%20|%20JS%20|%20React%20|%20Python%20|%20Django%20|%20MySQL-FF5733?style=flat-square" alt="Tech" /><br/>
-        <a href="[Repo Link]"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <a href="https://github.com/mohinkhan13/ecom-project"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
       </td>
       <td align="center" style="background:#1A1A1A;padding:20px;border-radius:15px;box-shadow:0 0 15px #00FFFF;">
         <strong style="color:#00FFFF;">Blog Site</strong><br/>
