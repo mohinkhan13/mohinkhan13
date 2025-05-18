@@ -51,17 +51,17 @@
       <td align="center" style="background:#1A1A1A;padding:20px;border-radius:15px;box-shadow:0 0 15px #00FFFF;">
         <strong style="color:#00FFFF;">Blog Site</strong><br/>
         <em>User + Admin portal—CRUD posts, stats, comments</em><br/>
-        <img src="https://via.placeholder.com/250?text=Blog+Preview" alt="Blog Preview" style="border-radius:10px;border:2px solid #00FFFF;" /><br/>
-        <img src="https://img.shields.io/badge/HTML%20|%20CSS%20|%20JS%20|%20Python%20|%20Django%20|%20MySQL-00FFFF?style=flat-square" alt="Tech" /><br/>
-        <a href="https://github.com/mohinkhan13/MyBlog"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
+        <img src="https://github.com/mohinkhan13/Blog-managment/blob/main/Project%20Screenshot/Home%20page%2001.png" alt="Blog Preview" style="border-radius:10px;border:2px solid #00FFFF;" /><br/>
+        <img src="https://github.com/mohinkhan13/Blog-managment/blob/main/Project%20Screenshot/Admin%20Panel.png" alt="Tech" /><br/>
+        <a href="https://github.com/mohinkhan13/Blog-managment"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
       </td>
-      <td align="center" style="background:#1A1A1A;padding:20px;border-radius:15px;box-shadow:0 0 15px #FFFF00;">
+<!--       <td align="center" style="background:#1A1A1A;padding:20px;border-radius:15px;box-shadow:0 0 15px #FFFF00;">
         <strong style="color:#FFFF00;">Jatvad Seva Trust Organizer</strong><br/>
         <em>Admin dashboard for trust management</em><br/>
         <img src="https://via.placeholder.com/250?text=Trust+Preview" alt="Trust Preview" style="border-radius:10px;border:2px solid #FFFF00;" /><br/>
         <img src="https://img.shields.io/badge/HTML%20|%20CSS%20|%20JS%20|%20Python%20|%20Django%20|%20MySQL-FFFF00?style=flat-square" alt="Tech" /><br/>
         <a href="[Repo Link]"><img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
